@@ -4,4 +4,4 @@ This is a practical example where we develop a airport and airline data analysis
 
 I have also created a hidden filter within the dashboard to filter between dates, distances and locations.
 
-Please refer to SF_image for an image of dashboard and SF_project for the actual workbook
+Please refer to SF_image for an image of dashboard and SF_project for the actual tableau workbook
